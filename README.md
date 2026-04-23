@@ -2,7 +2,7 @@ Welcome to my data analysis portfolio! This repository showcases various data an
 
 About Me
 
-I’m a Social Media Coordinator with a background in executing campaigns that blend creativity, strategy, and community engagement. While I’ve enjoyed the creative and strategic aspects of marketing, I’ve always been drawn to the numbers behind the work, analyzing performance, uncovering insights, and making data-informed decisions. In college, I even considered majoring in mathematics, unsure at the time how to connect that passion with a creative career.
+I’m a Social Media Marketing Specialist with a background in executing campaigns that blend creativity, strategy, and community engagement. While I’ve enjoyed the creative and strategic aspects of marketing, I’ve always been drawn to the numbers behind the work, analyzing performance, uncovering insights, and making data-informed decisions. In college, I even considered majoring in mathematics, unsure at the time how to connect that passion with a creative career.
 
 Over time, I realized that I don’t have to choose between creativity and data—I can pursue a path that brings them together. This led me to explore data analytics more seriously and earn the Google Data Analytics Certificate, where I built hands-on experience with tools like Excel, SQL, and Tableau. I hold a Bachelor’s degree in Business Administration with a focus in Marketing, and I bring strong analytical problem-solving and decision-making skills to the table.
 
